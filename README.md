@@ -1,11 +1,12 @@
-Toronto Crime Data Analysis
-Project Overview
+## Toronto Crime Data Analysis
+
+### Project Overview
 
 This project analyzes Toronto crime data from 2013 onwards to uncover patterns, trends, and hotspots in criminal activity across the city. The goal is to provide actionable insights for law enforcement, policymakers, and urban researchers by leveraging data cleaning, feature engineering, statistical analysis, clustering, and predictive modeling.
 
 The analysis combines exploratory data analysis (EDA), machine learning, and visualization techniques to reveal relationships between crime types, locations, and temporal patterns.
 
-Objectives
+### Objectives
 
 Clean and preprocess large datasets for analysis.
 
@@ -17,7 +18,7 @@ Apply predictive modeling to understand key factors influencing crime occurrence
 
 Visualize findings through dashboards, heatmaps, bar charts, and trend plots for easy interpretation.
 
-Features
+### Features
 
 Data Cleaning & Preprocessing: Handling missing values, standardizing categorical variables, and preparing datasets for analysis.
 
@@ -33,7 +34,7 @@ Predictive Modeling (Decision Trees): Modeling crime patterns and identifying st
 
 Visualization: Heatmaps, bar charts, line graphs, and interactive dashboards to communicate actionable insights.
 
-Dataset
+### Dataset
 
 Source: Toronto Police Service Open Data Portal
 
@@ -43,7 +44,7 @@ Key columns: Occurrence Date, Crime Type, Neighbourhood, Latitude, Longitude, Ou
 
 Data size: ~hundreds of thousands of rows, covering multiple crime types and geographic areas
 
-Tools and Technologies
+### Tools and Technologies
 
 Programming Language: Python
 
@@ -55,7 +56,7 @@ Visualization Tools: Heatmaps, bar charts, line plots, dashboards
 
 Other Tools: Excel for initial data exploration
 
-Key Insights
+### Key Insights
 
 Identified high-crime neighborhoods and temporal crime trends.
 
@@ -65,7 +66,7 @@ Developed predictive models highlighting key factors contributing to crime likel
 
 Provided actionable visualizations to support city policing strategies and decision-making.
 
-How to Use
+### How to Use
 
 Clone this repository:
 
@@ -84,7 +85,7 @@ jupyter notebook GroupReport_Global_Life_Expectancy.ipynb
 
 Follow the notebook cells to explore data cleaning, EDA, clustering, predictive modeling, and visualizations.
 
-Future Improvements
+### Future Improvements
 
 Integrate real-time crime data to allow dynamic crime hotspot detection.
 
@@ -94,7 +95,7 @@ Build an interactive web dashboard for city officials to explore insights visual
 
 Include additional features such as socio-economic data or demographic information for deeper analysis.
 
-Author
+### Author
 
 Navdisha Bhakri
 Software Engineering Student | Data Science & Machine Learning Enthusiast
